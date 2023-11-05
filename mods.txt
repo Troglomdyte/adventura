@@ -77,12 +77,14 @@
 *** Gameplay ***
 
 -- Better Combat : https://modrinth.com/mod/better-combat/version/1.8.2+1.20.1-fabric
+-- LambDynamicLights : https://modrinth.com/mod/lambdynamiclights/version/2.3.2+1.20.1
 -- Mob Captains : https://modrinth.com/datapack/mob-captains/version/v2.1.2+mod
 
 
 *** Ambiance ***
 
 -- Ambient Sounds : https://modrinth.com/mod/ambientsounds/version/spvQUwSs
+-- Cave Dust : https://modrinth.com/mod/cave-dust/version/TW6c5l4O
 -- Presence Footsteps : https://modrinth.com/mod/presence-footsteps/version/1.9.1
 -- Visuality : https://modrinth.com/mod/visuality/version/0.7.0+1.20
 
@@ -110,6 +112,7 @@
 
 ***!*** Optional ***!***
 
+-- Cave Dweller Evolved : https://modrinth.com/mod/cave-dweller-evolved-(fabric)/version/1.0
 -- Jobs Addon : https://modrinth.com/mod/jobsaddon/version/1.1.4+1.20.1
 -- LevelZ : https://modrinth.com/mod/levelz/version/1.4.11+1.20.1
 -- LibZ : https://modrinth.com/mod/libz/version/1.0.2+1.20.1
