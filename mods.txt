@@ -1,0 +1,102 @@
+-- Fabric : https://fabricmc.net/
+
+
+*** Libraries ***
+
+-- Architectury : https://modrinth.com/mod/architectury-api/version/9.1.12+fabric
+-- Azurelib : https://modrinth.com/mod/azurelib/version/bsnNPpOp
+-- BcLib : https://modrinth.com/mod/bclib/version/3.0.13
+-- Fabric API : https://modrinth.com/mod/fabric-api/version/0.86.1+1.20.1
+-- Bookshelf : https://modrinth.com/mod/bookshelf-lib/version/20.1.6
+-- Cardinal Components : https://modrinth.com/mod/cardinal-components-api/version/5.2.2
+-- Cloth Config : https://modrinth.com/mod/cloth-config/version/11.1.106+fabric
+-- Creative Core : https://modrinth.com/mod/creativecore/version/7CPnWljL
+-- Forge Config API Port : https://modrinth.com/mod/forge-config-api-port/version/v8.0.0-1.20.1-Fabric
+-- Geckolib : https://modrinth.com/mod/geckolib/version/4.2.3
+-- Iceberg : https://modrinth.com/mod/iceberg/version/1.1.14
+-- Obscure API : https://modrinth.com/mod/obscure-api/version/16
+-- Player Animation Lib : https://modrinth.com/mod/playeranimator/version/1.0.2-rc1+1.20-fabric
+-- Prism : https://modrinth.com/mod/prism-lib/version/1.0.5
+-- Resourceful Config : https://modrinth.com/mod/resourceful-lib/version/Km7wGxHM
+-- Rescourceful Lib : https://modrinth.com/mod/resourceful-lib/version/5Ty6o9ND
+-- Smart Brain Lib : https://modrinth.com/mod/smartbrainlib/version/1.12
+-- Yung's API : https://modrinth.com/mod/yungs-api/version/1.20-Fabric-4.0.2
+-- Trinkets : https://modrinth.com/mod/trinkets/version/3.7.1
+
+
+*** Performance ***
+
+-- Lithium : https://modrinth.com/mod/lithium/version/mc1.20.1-0.11.2
+-- Sodium : https://modrinth.com/mod/sodium/version/mc1.20.1-0.5.3
+-- Ferrite Core : https://modrinth.com/mod/ferrite-core/version/6.0.1
+-- Starlight : https://modrinth.com/mod/starlight/version/1.1.2+1.20
+
+
+*** World Generation ***
+
+-- Coice Theorem's Overhauled Villages : https://modrinth.com/mod/ct-overhaul-village/version/3.3.5
+-- Terralith : https://modrinth.com/mod/terralith/version/2.4.8
+-- Wilder Wild : https://modrinth.com/mod/wilder-wild/version/2.1.11-mc1.20.1
+-- Yung's Better Desert Temples : https://modrinth.com/mod/yungs-better-desert-temples/version/1.20-Fabric-3.0.3
+-- Yung's Better Dungeons : https://modrinth.com/mod/yungs-better-dungeons/version/1.20-Fabric-4.0.3
+-- Yung's Better Jungle Temples : https://modrinth.com/mod/yungs-better-jungle-temples/version/1.20-Fabric-2.0.4
+-- Yung's Better Mineshafts : https://modrinth.com/mod/yungs-better-mineshafts/version/1.20-Fabric-4.0.4
+-- Yung's Better Nether Fortresses : https://modrinth.com/mod/yungs-better-nether-fortresses/version/1.20-Fabric-2.0.5
+-- Yung's Better Ocean Monuments : https://modrinth.com/mod/yungs-better-ocean-monuments/version/1.20-Fabric-3.0.3
+-- Yung's Better Strongholds : https://modrinth.com/mod/yungs-better-strongholds/version/1.20-Fabric-4.0.3
+-- Yung's Better Witch Huts : https://modrinth.com/mod/yungs-better-witch-huts/version/1.20-Fabric-3.0.3
+-- Yung's Bridges : https://modrinth.com/mod/yungs-bridges/version/1.20-Fabric-4.0.3
+-- Yung's Extras : https://modrinth.com/mod/yungs-extras/version/1.20-Fabric-4.0.3
+
+
+*** Content ***
+
+-- Aquamirae : https://modrinth.com/mod/aquamirae/version/ouUaC54p
+-- Better Archeology : https://modrinth.com/mod/better-archeology/version/1.0.2
+-- Better End : https://modrinth.com/mod/betterend/version/4.0.10
+-- Better Nether : https://modrinth.com/mod/betternether/version/9.0.9
+-- Creeper Overhaul : https://modrinth.com/mod/creeper-overhaul/version/3.0.1
+-- Dark Waters : https://modrinth.com/mod/dark-waters/version/0.0.22
+-- Enderman Overhaul : https://modrinth.com/mod/enderman-overhaul/version/17DyTSjL
+-- Explorer's Compass : https://modrinth.com/mod/explorers-compass/version/1.20.1-2.2.3-fabric
+-- Multitool : https://modrinth.com/datapack/multitool/version/4.1.2+mod
+-- Nature's Compass : https://modrinth.com/mod/natures-compass/version/1.20.1-2.2.3-fabric
+-- Simply Swords : https://modrinth.com/mod/simply-swords/version/1.51.5-1.20.1
+-- Traveler's Backpack : https://modrinth.com/mod/travelersbackpack/version/iYUhPo8x
+
+
+*** Gameplay ***
+
+-- Better Combat : https://modrinth.com/mod/better-combat/version/1.8.2+1.20.1-fabric
+-- Mob Captains : https://modrinth.com/datapack/mob-captains/version/v2.1.2+mod
+
+
+*** Ambiance ***
+
+-- Ambient Sounds : https://modrinth.com/mod/ambientsounds/version/spvQUwSs
+-- Presence Footsteps : https://modrinth.com/mod/presence-footsteps/version/1.9.1
+-- Visuality : https://modrinth.com/mod/visuality/version/0.7.0+1.20
+
+
+*** Utility ***
+
+-- Appleskin : https://modrinth.com/mod/appleskin/version/2.5.1+mc1.20
+-- BetterF3 : https://modrinth.com/mod/betterf3/version/7.0.1
+-- Charm of Undying : https://modrinth.com/mod/charm-of-undying/version/qxgJorhU
+-- Dark Loading Screen : https://modrinth.com/mod/dark-loading-screen/version/1.6.14
+-- Health Indicator TXF : https://modrinth.com/mod/health-indicator-txf/version/1.20.1-1.1.6-fabric
+-- Legendary Tooltips : https://modrinth.com/mod/legendary-tooltips/version/pKKg19XI
+-- Mod Menu : https://modrinth.com/mod/modmenu/version/7.2.2
+-- REI : https://modrinth.com/mod/rei/version/12.0.674+fabric
+-- Tool Stats : https://modrinth.com/mod/tool-stats/version/16.0.4
+-- Xaero's MiniMap : https://modrinth.com/mod/xaeros-minimap/version/23.8.4_Fabric_1.20
+-- Xaero's World Map : https://modrinth.com/mod/xaeros-world-map/version/1.36.0_Fabric_1.20
+
+
+
+***!*** Optional ***!***
+
+-- Jobs Addon : https://modrinth.com/mod/jobsaddon/version/1.1.4+1.20.1
+-- LevelZ : https://modrinth.com/mod/levelz/version/1.4.11+1.20.1
+-- LibZ : https://modrinth.com/mod/libz/version/1.0.2+1.20.1
+-- When Dungeons Arise : https://modrinth.com/mod/when-dungeons-arise/version/Vd5XOXlj
